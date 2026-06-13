@@ -39,7 +39,7 @@ function aggregateLanguages(langMaps) {
   return Object.entries(total)
     .map(([lang, bytes]) => ({ lang, pct: ((bytes / sum) * 100).toFixed(1) + "%" }))
     .sort((a, b) => parseFloat(b.pct) - parseFloat(a.pct))
-    .slice(0, 6);
+    .slice(0, 10);
 }
 
 const now = new Date();
@@ -141,7 +141,7 @@ try {
 
   const topContribs = [...contributorMap.values()]
     .sort((a, b) => b.contributions - a.contributions)
-    .slice(0, 5);
+    .slice(0, 10);
 
   // Markdown blocks (FORCE UPDATE ile her run'da değişiklik garanti)
 const forceToken = `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
