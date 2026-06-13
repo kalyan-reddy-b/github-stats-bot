@@ -4,11 +4,11 @@ This repository is automatically updated every day.
 
 ## Summary
 <!-- STATS:START -->
-**Update:** 2026-06-13T16:23:28.695Z  
-**Last run (UTC):** Sat, 13 Jun 2026 16:23:28 GMT  
-**Force Update Token:** 1781367813680-ml5pt3  
-**Total Public Repos:** 16  
-**Total Stars:** 0 • **Total Forks:** 1  
+**Update:** 2026-06-13T19:18:46.147Z  
+**Last run (UTC):** Sat, 13 Jun 2026 19:18:46 GMT  
+**Force Update Token:** 1781378331379-jchroa  
+**Total Public Repos:** 13  
+**Total Stars:** 0 • **Total Forks:** 0  
 **Open Issues:** 0 • **Open PRs:** 0
 <!-- STATS:END -->
 
@@ -16,25 +16,24 @@ This repository is automatically updated every day.
 <!-- LANGS:START -->
 Language | Percentage
 --- | ---
-Python | 87.1%
-Jupyter Notebook | 10.9%
-C | 0.7%
-HTML | 0.3%
-JavaScript | 0.2%
-TypeScript | 0.2%
-CSS | 0.2%
-C# | 0.1%
-C++ | 0.1%
-Cython | 0.1%
+Jupyter Notebook | 96.4%
+TypeScript | 2.3%
+C# | 1.1%
+JavaScript | 0.1%
+Java | 0.1%
+CSS | 0.0%
+Dockerfile | 0.0%
+HTML | 0.0%
+Python | 0.0%
 <!-- LANGS:END -->
 
 ## Last 5 Updated Repositories
 <!-- RECENT:START -->
 Repo | Stars | Forks | Updated
 --- | --- | --- | ---
+[Credit-Card-Financial-dashboard](https://github.com/kalyan-reddy-b/Credit-Card-Financial-dashboard) | 0 | 0 | 2026-06-13
 [github-stats-bot](https://github.com/kalyan-reddy-b/github-stats-bot) | 0 | 0 | 2026-06-13
 [OpenDrive](https://github.com/kalyan-reddy-b/OpenDrive) | 0 | 0 | 2026-06-13
 [SupplierHub](https://github.com/kalyan-reddy-b/SupplierHub) | 0 | 0 | 2026-05-22
-[CV](https://github.com/kalyan-reddy-b/CV) | 0 | 0 | 2025-11-30
 [kalyan-reddy-b](https://github.com/kalyan-reddy-b/kalyan-reddy-b) | 0 | 0 | 2025-10-31
 <!-- RECENT:END -->
