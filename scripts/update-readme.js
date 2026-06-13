@@ -34,10 +34,12 @@ function aggregateLanguages(langMaps) {
     for (const [k, v] of Object.entries(m)) total[k] = (total[k] || 0) + v;
   }
   const sum = Object.values(total).reduce((a, b) => a + b, 0) || 1;
+
+  // To show only top 6 languages
   return Object.entries(total)
     .map(([lang, bytes]) => ({ lang, pct: ((bytes / sum) * 100).toFixed(1) + "%" }))
     .sort((a, b) => parseFloat(b.pct) - parseFloat(a.pct))
-    .slice(0, 10);
+    .slice(0, 6);
 }
 
 const now = new Date();
