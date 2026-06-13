@@ -141,7 +141,7 @@ try {
 
   const topContribs = [...contributorMap.values()]
     .sort((a, b) => b.contributions - a.contributions)
-    .slice(0, 10);
+    .slice(0, 5);
 
   // Markdown blocks (FORCE UPDATE ile her run'da değişiklik garanti)
 const forceToken = `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
